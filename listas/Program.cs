@@ -21,5 +21,6 @@ void Ingresar()
 }
 
 Ingresar();
+/////carga inicial
 
 
